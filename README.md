@@ -3,16 +3,16 @@ This script traces the likes on posts of a page, by your team mates / a list of 
 It's based on Facebook-sdk for python [https://facebook-sdk.readthedocs.org/]
 
 # Requirements
--Python
+- Python
 
--pip
+- pip
 
-sudo easy_install pip
+  sudo easy_install pip
 
--virtualenv
+- virtualenv
 
-sudo pip install virtualenv
+  sudo pip install virtualenv
 
--facebook-sdk
+- facebook-sdk
 
-sudo pip install facebook-sdk
+  sudo pip install facebook-sdk
