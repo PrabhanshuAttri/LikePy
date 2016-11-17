@@ -7,12 +7,12 @@ It's based on Facebook-sdk for python [https://facebook-sdk.readthedocs.org/]
 
 - pip
 
-  sudo easy_install pip
+  > sudo easy_install pip
 
 - virtualenv
 
-  sudo pip install virtualenv
+  > sudo pip install virtualenv
 
 - facebook-sdk
 
-  sudo pip install facebook-sdk
+  > sudo pip install facebook-sdk
